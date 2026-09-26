@@ -1,28 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
-  <title id="title">Humanizer 中文</title>
-  <desc id="desc">识别空泛措辞，保留事实和原意，把句子改得自然清楚。 The diagram is a conceptual illustration, not a benchmark or application screenshot.</desc>
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Humanizer-zh</title>
+  <desc id="desc">将系统具有处理的能力改为系统可以处理；通过删减赘词使原意更直接，保留原项目归属。</desc>
   <defs>
-    <clipPath id="frame">
-      <rect width="1200" height="440" rx="24" />
+    <clipPath id="canvas">
+      <rect width="1200" height="620" rx="26" />
     </clipPath>
   </defs>
-  <g clip-path="url(#frame)">
-    <rect x="0" y="0" width="1200" height="440" rx="24" fill="#f9f4e9" />
-    <text x="60" y="72" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">中文编辑 / PERSONAL FORK</text>
-    <text x="60" y="166" font-family="Georgia,'Songti SC',serif" font-size="74" font-weight="700" fill="#342e2a" text-anchor="start">Humanizer</text>
-    <text x="60" y="244" font-family="Georgia,'Songti SC',serif" font-size="74" font-weight="700" fill="#342e2a" text-anchor="start">中文</text>
-    <text x="60" y="298" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#342e2a" text-anchor="start">保留原意，写得自然。</text>
-    <text x="60" y="400" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">识别套话  →  保留事实  →  重写句子</text>
-    <rect x="705" y="56" width="425" height="321" rx="10" fill="#fffdf5" stroke="#ded6c6" stroke-width="2" />
-    <text x="738" y="99" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">REVISION NOTES</text>
-    <text x="738" y="157" font-family="Georgia,'Songti SC',serif" font-size="32" font-weight="500" fill="#8b8071" text-anchor="start">空泛的形容词</text>
-    <g id="delete-vague">
-      <path d="M730 146L1028 160" fill="none" stroke="#a54839" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <g clip-path="url(#canvas)">
+    <rect x="0" y="0" width="1200" height="620" rx="0" fill="#FAF4E9" />
+    <text x="50" y="43" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="600" fill="#AE5144">中文编辑校样 / HUMANIZER-ZH</text>
+    <text x="47" y="123" font-family="Georgia, Songti SC, serif" font-size="77" font-weight="500" fill="#342E29">Humanizer-zh</text>
+    <text x="52" y="177" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="31" font-weight="400" fill="#89796B">写得自然，先把意思说清楚。</text>
+    <path d="M49 212 H1148" fill="none" stroke="#AE5144" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="54" y="248" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="500" fill="#89796B">EDITING PROOF</text>
+    <path d="M90 275 V550" fill="none" stroke="#D5BDB0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="55" y="316" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="400" fill="#89796B">01</text>
+    <text x="55" y="473" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="400" fill="#89796B">02</text>
+    <text x="122" y="317" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="40" font-weight="400" fill="#342E29">系统具有处理的能力。</text>
+    <text x="124" y="358" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="18" font-weight="400" fill="#89796B">原句 / SKILL.md 中的赘词例子</text>
+    <text x="879" y="272" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="22" font-weight="600" fill="#AE5144">校样原则</text>
+    <text x="879" y="320" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="24" font-weight="400" fill="#342E29">保留原意</text>
+    <text x="879" y="363" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="24" font-weight="400" fill="#342E29">删掉赘词</text>
+    <text x="879" y="406" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="24" font-weight="400" fill="#342E29">不补编事实</text>
+    <path d="M834 267 V433" fill="none" stroke="#DCC7B8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="52" y="585" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="27" font-weight="400" fill="#342E29">自然表达来自具体、准确和节制。</text>
+    <g id="edit-marks">
+      <path d="M201 304 L281 311 M361 310 L481 303" fill="none" stroke="#AE5144" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M263 328 C283 365 290 393 281 415" fill="none" stroke="#AE5144" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M275 406 L281 415 L289 408" fill="none" stroke="#AE5144" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
     </g>
-    <g id="rewrite">
-      <text x="738" y="233" font-family="Georgia,'Songti SC',serif" font-size="38" font-weight="600" fill="#342e2a" text-anchor="start">具体的事实</text>
-      <text x="738" y="292" font-family="Georgia,'Songti SC',serif" font-size="38" font-weight="600" fill="#342e2a" text-anchor="start">清楚的动作</text>
+    <g id="clean-sentence">
+      <text x="124" y="474" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="48" font-weight="500" fill="#342E29">系统可以处理。</text>
+      <path d="M124 493 H458" fill="none" stroke="#AE5144" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+      <text x="127" y="531" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="23" font-weight="400" fill="#AE5144">同一个意思，用更直接的句子。</text>
     </g>
-    <text x="738" y="346" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">KEEP THE MEANING</text>
   </g>
 </svg>

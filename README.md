@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="识别空泛措辞，保留事实和原意，把句子改得自然清楚。 Conceptual overview.">
+  <img src="./assets/readme/hero.gif" width="100%" alt="将系统具有处理的能力改为系统可以处理；通过删减赘词使原意更直接，保留原项目归属。">
 </p>
 
 # Humanizer-zh: AI 写作去痕工具（中文版）
