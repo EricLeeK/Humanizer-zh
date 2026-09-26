@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Humanizer 中文</title>
+  <desc id="desc">识别空泛措辞，保留事实和原意，把句子改得自然清楚。 The diagram is a conceptual illustration, not a benchmark or application screenshot.</desc>
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="440" rx="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="1200" height="440" rx="24" fill="#f9f4e9" />
+    <text x="60" y="72" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">中文编辑 / PERSONAL FORK</text>
+    <text x="60" y="166" font-family="Georgia,'Songti SC',serif" font-size="74" font-weight="700" fill="#342e2a" text-anchor="start">Humanizer</text>
+    <text x="60" y="244" font-family="Georgia,'Songti SC',serif" font-size="74" font-weight="700" fill="#342e2a" text-anchor="start">中文</text>
+    <text x="60" y="298" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#342e2a" text-anchor="start">保留原意，写得自然。</text>
+    <text x="60" y="400" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">识别套话  →  保留事实  →  重写句子</text>
+    <rect x="705" y="56" width="425" height="321" rx="10" fill="#fffdf5" stroke="#ded6c6" stroke-width="2" />
+    <text x="738" y="99" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">REVISION NOTES</text>
+    <text x="738" y="157" font-family="Georgia,'Songti SC',serif" font-size="32" font-weight="500" fill="#8b8071" text-anchor="start">空泛的形容词</text>
+    <g id="delete-vague">
+      <path d="M730 146L1028 160" fill="none" stroke="#a54839" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="rewrite">
+      <text x="738" y="233" font-family="Georgia,'Songti SC',serif" font-size="38" font-weight="600" fill="#342e2a" text-anchor="start">具体的事实</text>
+      <text x="738" y="292" font-family="Georgia,'Songti SC',serif" font-size="38" font-weight="600" fill="#342e2a" text-anchor="start">清楚的动作</text>
+    </g>
+    <text x="738" y="346" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#a54839" text-anchor="start">KEEP THE MEANING</text>
+  </g>
+</svg>

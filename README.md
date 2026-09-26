@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="识别空泛措辞，保留事实和原意，把句子改得自然清楚。 Conceptual overview.">
+</p>
+
 # Humanizer-zh: AI 写作去痕工具（中文版）
 
+> **来源：** 本仓库是 [fancyboi999/Humanizer-zh](https://github.com/fancyboi999/Humanizer-zh) 的个人 fork。
+>
 > **声明：**
 > - 本项目的核心文件翻译自 [blader/humanizer](https://github.com/blader/humanizer/tree/main)
 > - 实用工具部分（核心规则、快速检查清单、质量评分）参考了 [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
@@ -237,3 +243,10 @@ git clone https://github.com/op7418/Humanizer-zh.git ~/.claude/skills/humanizer-
 ---
 
 **提示：** 这个工具不是为了"欺骗" AI 检测器，而是为了真正提升写作质量。最好的"去 AI 化"方法是让文字有真实的人类思考和声音。
+
+<details>
+<summary>Static overview</summary>
+
+[Open the static SVG](./assets/readme/hero.svg).
+
+</details>
